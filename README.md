@@ -3,11 +3,46 @@
 <h1 align="center">Hi 👋, I'm Md Fardous</h1>
 <h3 align="center">Frontend Developer | React Specialist | MERN Stack Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdfardous98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=mdfardous98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  ![GitHub Followers](https://img.shields.io/github/followers/mdfardous98?style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/mdfardous98?style=social)
+</div>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 👨‍💻 About Me
 

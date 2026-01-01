@@ -94,6 +94,16 @@ A full-stack e-commerce platform for pet products.
   ⭐ <strong>Open to collaboration and freelance opportunities</strong> ⭐
 </p>
 
+
+
+
+
+
+
+![GitHub Metrics](https://raw.githubusercontent.com/mdfardous98/mdfardous98/main/github-metrics.svg)
+
+
+
 <p align="center">
   <sub>View my repositories below to see more of my work</sub>
 </p>

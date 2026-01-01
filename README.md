@@ -1,4 +1,4 @@
-![Banner](./github%20Banner.png)
+![Banner](./github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Fardous</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
@@ -13,11 +13,11 @@
 
 I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build responsive, user-focused web applications and enjoy solving real-world problems through clean, maintainable code.
 
-- 🔭 Recently built: **Pet adoption platforms, educational websites, and e-commerce solutions**
-- 🌱 Learning: **Next.js, TypeScript, and advanced React patterns**
-- 💬 Ask me about: **React, Node.js, MongoDB, Tailwind CSS, Firebase**
-- 📫 Reach me: **mdjfardous@gmail.com** | **+8801688645882**
-- 📍 Based in: **Dhaka, Bangladesh**
+- 🔭 **Recent Projects:** Pet adoption platforms, educational websites, e-commerce solutions
+- 🌱 **Currently Learning:** Next.js, TypeScript, advanced React patterns
+- 💬 **Ask Me About:** React, Node.js, MongoDB, Tailwind CSS, Firebase
+- 📫 **Contact:** mdjfardous@gmail.com | +8801688645882
+- 📍 **Location:** Dhaka, Bangladesh
 
 ---
 
@@ -43,16 +43,22 @@ I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, Rea
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdfardous98&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfardous98&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+### [🐾 Pet Care in Winter](https://github.com/mdfardous98/ph-09-pet-care-in-winter)
+A pet adoption platform with campaign management and donation tracking.  
+**Tech Stack:** React • React Router • Tailwind CSS • LocalStorage  
+**Features:** Pet listings, adoption campaigns, responsive design, donation system
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfardous98&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+### [📚 Digital Life Lessons](https://github.com/mdfardous98/digital-life-lessons-client)
+An educational platform for digital life skills with user authentication.  
+**Tech Stack:** React • Firebase Authentication • React Router • Tailwind CSS  
+**Features:** Course browsing, user authentication, progress tracking, responsive UI
+
+### [🛒 PawMart](https://github.com/mdfardous98/pawmart-client)
+A full-stack e-commerce platform for pet products.  
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Firebase  
+**Features:** Product catalog, shopping cart, order management, user authentication
 
 ---
 
@@ -75,22 +81,19 @@ I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, Rea
 
 ---
 
-## 🚀 Featured Projects
+## 📌 What Sets Me Apart
 
-### [🐾 Pet Care in Winter](https://github.com/mdfardous98/ph-09-pet-care-in-winter)
-A pet adoption platform built with React and Tailwind CSS. Features include pet listings, adoption campaigns, donation system, and responsive design.  
-**Tech:** React, React Router, Tailwind CSS, LocalStorage
-
-### [📚 Digital Life Lessons](https://github.com/mdfardous98/digital-life-lessons-client)
-An educational platform for learning life skills digitally. Includes user authentication, course browsing, and progress tracking.  
-**Tech:** React, Firebase Authentication, React Router, Tailwind CSS
-
-### [🛒 PawMart](https://github.com/mdfardous98/pawmart-client)
-A full-stack e-commerce platform for pet products. Features product catalog, shopping cart, user authentication, and order management.  
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+- ✅ **Production-ready code** with clean architecture and best practices
+- ✅ **Full-stack capabilities** from database design to responsive UI
+- ✅ **Problem solver** who focuses on user experience and performance
+- ✅ **Continuous learner** staying current with modern web technologies
 
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/mdfardous98">Md Fardous</a>
+  ⭐ <strong>Open to collaboration and freelance opportunities</strong> ⭐
+</p>
+
+<p align="center">
+  <sub>View my repositories below to see more of my work</sub>
 </p>

@@ -15,7 +15,6 @@
 
 ## 👨‍💻 About Me
 
-## 📖 About Me
 A Mathematics graduate who discovered passion for web development and is now transitioning into the IT sector. My analytical background enhances my approach to frontend development with HTML, CSS, JavaScript, and React. I believe in continuous learning, daily practice, and building projects that make a difference.
 
 - 🔭 **Recent Projects:** Pet adoption platforms, educational websites, e-commerce solutions

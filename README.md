@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300/0D1117/58A6FF?text=Md+Fardous+|+MERN+Stack+Developer)
+![Banner](./github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Fardous</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build responsive, scalable web applications and enjoy solving real-world problems through code.
+I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build responsive, user-focused web applications and enjoy solving real-world problems through clean, maintainable code.
 
-- 🔭 Currently working on: **A tourism management platform using React and Firebase**
-- 🌱 Learning: **Next.js, TypeScript, and RESTful API design**
-- 💬 Ask me about: **React, Node.js, MongoDB, Tailwind CSS**
+- 🔭 Recently built: **Pet adoption platforms, educational websites, and e-commerce solutions**
+- 🌱 Learning: **Next.js, TypeScript, and advanced React patterns**
+- 💬 Ask me about: **React, Node.js, MongoDB, Tailwind CSS, Firebase**
 - 📫 Reach me: **mdjfardous@gmail.com** | **+8801688645882**
 - 📍 Based in: **Dhaka, Bangladesh**
 
@@ -77,14 +77,17 @@ I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, Rea
 
 ## 🚀 Featured Projects
 
-### [Tourism Management Platform](https://github.com/mdfardous98/tourism-platform)
-A full-stack tourism website with user authentication, booking system, and admin dashboard. Built with React, Node.js, Express, and MongoDB.
+### [🐾 Pet Care in Winter](https://github.com/mdfardous98/ph-09-pet-care-in-winter)
+A pet adoption platform built with React and Tailwind CSS. Features include pet listings, adoption campaigns, donation system, and responsive design.  
+**Tech:** React, React Router, Tailwind CSS, LocalStorage
 
-### [E-Commerce Store](https://github.com/mdfardous98/ecommerce-store)
-A responsive e-commerce application with product catalog, shopping cart, and payment integration. Built with React, Tailwind CSS, and Firebase.
+### [📚 Digital Life Lessons](https://github.com/mdfardous98/digital-life-lessons-client)
+An educational platform for learning life skills digitally. Includes user authentication, course browsing, and progress tracking.  
+**Tech:** React, Firebase Authentication, React Router, Tailwind CSS
 
-### [Weather Dashboard](https://github.com/mdfardous98/weather-dashboard)
-A real-time weather app fetching data from OpenWeatherMap API. Built with HTML, CSS, JavaScript, and REST APIs.
+### [🛒 PawMart](https://github.com/mdfardous98/pawmart-client)
+A full-stack e-commerce platform for pet products. Features product catalog, shopping cart, user authentication, and order management.  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 ---
 

@@ -15,7 +15,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build responsive, user-focused web applications and enjoy solving real-world problems through clean, maintainable code.
+## 📖 About Me
+A Mathematics graduate who discovered passion for web development and is now transitioning into the IT sector. My analytical background enhances my approach to frontend development with HTML, CSS, JavaScript, and React. I believe in continuous learning, daily practice, and building projects that make a difference.
 
 - 🔭 **Recent Projects:** Pet adoption platforms, educational websites, e-commerce solutions
 - 🌱 **Currently Learning:** Next.js, TypeScript, advanced React patterns
@@ -133,3 +134,13 @@ A complete e-commerce platform for pet products with cart, wishlist, and secure 
 
 ---
 💡 *Feel free to explore my repositories and don't hesitate to reach out for collaboration!*
+
+---
+
+
+<div align="center">
+https://github.com/mdfardous98/mdfardous98/blob/output/github-contribution-grid-snake.svg
+
+Thanks for visiting my profile! Have a great day! ✨
+
+</div> ```

@@ -13,37 +13,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 👨‍💻 About Me
 
 I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I build responsive, user-focused web applications and enjoy solving real-world problems through clean, maintainable code.
@@ -66,6 +35,7 @@ I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, Rea
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Database**
@@ -81,6 +51,7 @@ I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, Rea
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -99,61 +70,24 @@ I'm a web developer specializing in the **MERN stack** (MongoDB, Express.js, Rea
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/mdfardous" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mdfardous98" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:mdjfardous@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://facebook.com/tajwar.fardous" target="_blank">
+<div align="center">
+  
+📍 **Dhaka, Bangladesh** | 📧 **mdjfardous@gmail.com** | 📱 **+8801688645882**
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfardous)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdfardous98)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjfardous@gmail.com)
+<a href="https://facebook.com/tajwar.fardous" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
-
----
-
-## 📌 What Sets Me Apart
-
-- ✅ **Production-ready code** with clean architecture and best practices
-- ✅ **Full-stack capabilities** from database design to responsive UI
-- ✅ **Problem solver** who focuses on user experience and performance
-- ✅ **Continuous learner** staying current with modern web technologies
+</div>
 
 ---
 
 
-
-
-
-
-## 🚀 Featured Projects
-
-### [🐾 Pet Care in Winter](https://github.com/mdfardous98/ph-09-pet-care-in-winter)
-A pet adoption platform with campaign management and donation tracking.  
-- **Live Demo:** [View Site](#)
-- **Tech Stack:** React • React Router • Tailwind CSS • LocalStorage  
-- **Features:** Pet listings, adoption campaigns, responsive design, donation system
-
-### [📚 Digital Life Lessons](https://github.com/mdfardous98/digital-life-lessons-client)
-An educational platform for digital life skills with user authentication.  
-- **Live Demo:** [View Site](#)
-- **Tech Stack:** React • Firebase Authentication • React Router • Tailwind CSS  
-- **Features:** Course browsing, user authentication, progress tracking, responsive UI
-
-### [🛒 PawMart](https://github.com/mdfardous98/pawmart-client)
-A full-stack e-commerce platform for pet products.  
-- **Live Demo:** [View Site](#)
-- **Tech Stack:** React • Node.js • Express.js • MongoDB • Firebase  
-- **Features:** Product catalog, shopping cart, order management, user authentication
-
----
 
 
 ## 📈 Contribution Overview
@@ -167,17 +101,32 @@ A full-stack e-commerce platform for pet products.
 
 ---
 
+## 🚀 Featured Projects
+
+### [🐾 Pet Care in Winter](https://github.com/mdfardous98/ph-09-pet-care-in-winter)
+A specialized pet care website providing winter care tips, service booking, and veterinary consultation.  
+- **Live Demo:** [View Site](https://ph-09-bac74.web.app)
+- **Tech Stack:** React • React Router • Tailwind CSS • Firebase  
+- **Features:** Service booking, winter care guides, veterinary appointments, responsive design
+
+### [📚 Digital Life Lessons](https://github.com/mdfardous98/digital-life-lessons-client)
+An online learning platform offering video courses, progress tracking, and certification.  
+- **Live Demo:** [View Site](https://digital-life-lessons-626ff.web.app)
+- **Tech Stack:** React • Firebase Authentication • MongoDB • Express.js  
+- **Features:** Course enrollment, user authentication, progress tracking, certificate generation
+
+### [🛒 PawMart](https://github.com/mdfardous98/pawmart-client)
+A complete e-commerce platform for pet products with cart, wishlist, and secure checkout.  
+- **Live Demo:** [View Site](https://pawmart-client-2025.netlify.app)
+- **Tech Stack:** React • Node.js • Express.js • MongoDB • Stripe  
+- **Features:** Product catalog, shopping cart, secure payment, order management, user dashboard
+---
+
 ## 📫 Quick Contact
 - **Email:** mdjfardous@gmail.com
 - **Phone:** +8801688645882  
 - **Location:** Dhaka, Bangladesh
-- **Availability:** Open for collaborations and freelance projects
-
 ---
-
-
-
-
 <p align="center">
   ⭐ <strong>Open to collaboration and freelance opportunities</strong> ⭐
 </p>

@@ -145,23 +145,6 @@ A complete e-commerce platform for pet products with cart, wishlist, and secure 
 ---
 
 
-<div align="center">
-https://github.com/mdfardous98/mdfardous98/blob/output/github-contribution-grid-snake.svg
-
-Thanks for visiting my profile! Have a great day! ✨
-
-</div> ```
-
-
-
-
-
-
-
-<div align="center">
-
-
-
 
 
 

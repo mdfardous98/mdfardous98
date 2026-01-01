@@ -90,11 +90,6 @@ A full-stack e-commerce platform for pet products.
 
 ---
 
-<p align="center">
-  ⭐ <strong>Open to collaboration and freelance opportunities</strong> ⭐
-</p>
-
-
 
 
 
@@ -105,5 +100,5 @@ A full-stack e-commerce platform for pet products.
 
 
 <p align="center">
-  <sub>View my repositories below to see more of my work</sub>
+  ⭐ <strong>Open to collaboration and freelance opportunities</strong> ⭐
 </p>
